@@ -14,6 +14,8 @@ The analysis concludes that
 * Males had an unproportional tendency of dying, compared to the general gender distribution in the universe
 * Most character die very few chapters after their introduction.
 
+A blogpost showing the visuals of these conclusions can be found at https://medium.com/@jhhcons/game-of-thrones-aeeddfa14562
+
 The following files are present in this project:
 * GoT Analysis.ipynb - The Jupiter Notebook containing the analysis
 * README.md - This Readme
