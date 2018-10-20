@@ -10,6 +10,6 @@ This analysis answers the following questions:
 * What is the distribution of characters lifespan in term of chapters?
 
 The analysis concludes that
-* Winter did **not** help the Stakrs win any wars
+* Winter did **not** help the Starks win any wars
 * Males had an unproportional tendency of dying, compared to the general gender distribution in the universe
 * Most character die very few chapters after their introduction.
